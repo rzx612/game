@@ -1,0 +1,5 @@
+D:\网络通信编程\Game\game\obj\Debug\game.csproj.AssemblyReference.cache
+D:\网络通信编程\Game\game\obj\Debug\game1.Form1.resources
+D:\网络通信编程\Game\game\obj\Debug\game.Properties.Resources.resources
+D:\网络通信编程\Game\game\obj\Debug\game.csproj.GenerateResource.cache
+D:\网络通信编程\Game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
